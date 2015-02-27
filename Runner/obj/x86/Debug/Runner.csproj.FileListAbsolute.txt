@@ -1,0 +1,68 @@
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\obj\x86\Debug\Runner.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Runner.exe
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Runner.pdb
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\IgnoreMe.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Lidgren.Network.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\obj\x86\Debug\Runner.exe
+c:\users\thomas\documents\visual studio 2013\Projects\Runner\Runner\obj\x86\Debug\Runner.pdb
+C:\Users\Thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Content\bouleEneregie.xnb
+C:\Users\Thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Content\Goku.xnb
+C:\Users\Thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Content\ssj.xnb
+C:\Users\Thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Content\SpriteFont.xnb
+C:\Users\Thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Content\mechant.xnb
+C:\Users\Thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Content\FirstSlash.xnb
+C:\Users\Thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Content\jouer.xnb
+C:\Users\Thomas\documents\visual studio 2013\Projects\Runner\Runner\bin\Windows\Debug\Content\Quitter.xnb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Content\Goku.xnb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Content\ssj.xnb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Content\mechant.xnb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Content\FirstSlash.xnb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Content\jouer.xnb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Content\quitter.xnb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Content\bouleEneregie.xnb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Content\SpriteFont.xnb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Runner.exe
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Runner.pdb
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.xml
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\obj\x86\Debug\Runner.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\obj\x86\Debug\Runner.exe
+C:\Users\Thomas\Documents\ProjetGit\Runner\Runner\obj\x86\Debug\Runner.pdb
