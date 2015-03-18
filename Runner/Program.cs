@@ -18,7 +18,7 @@ namespace Runner
         [STAThread]
         static void Main()
         {
-            InterfaceManager.Launcher("InGame");
+            InterfaceManager.Launcher("MainMenu");
         }
     }
 #endif

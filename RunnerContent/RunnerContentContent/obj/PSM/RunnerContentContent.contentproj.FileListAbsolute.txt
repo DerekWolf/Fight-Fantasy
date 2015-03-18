@@ -1,2 +1,3 @@
 c:\Users\Thomas\documents\visual studio 2013\Projects\Runner\RunnerContent\RunnerContentContent\obj\PSM\RunnerContentContent.contentprojResolveAssemblyReference.cache
 C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContentContent\obj\PSM\RunnerContentContent.contentprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContentContent\obj\PSM\RunnerContentContent.contentprojResolveAssemblyReference.cache

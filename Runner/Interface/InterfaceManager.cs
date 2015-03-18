@@ -1,4 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,30 +10,40 @@ namespace Runner
 {
     class InterfaceManager
     {
-        public static void Launcher(string menu)
+        static string InterfaceLaunch;
+
+        public static void Launcher(string interfaceLaunch)
         {
-            switch (menu)
+            InterfaceLaunch = interfaceLaunch;
+            using (var game = new GameInterface())
+                game.Run();
+        }
+
+        public static void Navigate(string menu)
+        {
+            InterfaceLaunch = menu;
+
+            switch (InterfaceLaunch)
             {
-                case("InGame"):
-                using (var game = new Game1())
-                    game.Run();
-                break;
+                case ("MainMenu"):
+                    InterfaceLaunch = menu;
+                    break;
 
-                case ("MenuP"):;
-                using (var MenuP = new MenuInterface())
-                    MenuP.Run();
-                break;
+                case ("GameTime"):
+                    InterfaceLaunch = menu;
+                    break;
 
-                case ("Leave"):
-                using (var menuP = new MenuInterface())
-                    menuP.Exit();
-                break;
+                case ("Option"):
+
+                    break;
 
                 default:
-                using (var menuP = new MenuInterface())
-                    menuP.Run();
-                break;
+                    InterfaceLaunch = menu;
+                    break;
             }
         }
+
+        public static string GiveInterface()
+        { return InterfaceLaunch; }
     }
 }

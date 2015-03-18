@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\bin\PSM\Content\Goku.xnb</Output>
+      <Output>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\bin\PSM\Content\Goku.xnb</Output>
       <Time>2014-11-19T15:45:52.4360995+01:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\bin\PSM\Content\ssj.xnb</Output>
+      <Output>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\bin\PSM\Content\ssj.xnb</Output>
       <Time>2014-11-19T15:45:52.4986+01:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\bin\PSM\Content\mechant.xnb</Output>
+      <Output>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\bin\PSM\Content\mechant.xnb</Output>
       <Time>2014-12-08T11:29:37.9312752+01:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\bin\PSM\Content\FirstSlash.xnb</Output>
+      <Output>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\bin\PSM\Content\FirstSlash.xnb</Output>
       <Time>2015-01-14T08:52:24.818644+01:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\bin\PSM\Content\jouer.xnb</Output>
+      <Output>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\bin\PSM\Content\jouer.xnb</Output>
       <Time>2015-01-27T13:38:20.9971906+01:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\bin\PSM\Content\quitter.xnb</Output>
+      <Output>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\bin\PSM\Content\quitter.xnb</Output>
       <Time>2015-01-27T13:45:15.9657768+01:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\bin\PSM\Content\bouleEneregie.xnb</Output>
+      <Output>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\bin\PSM\Content\bouleEneregie.xnb</Output>
       <Time>2015-02-09T16:09:26.2155329+01:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\bin\PSM\Content\SpriteFont.xnb</Output>
+      <Output>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\bin\PSM\Content\SpriteFont.xnb</Output>
       <Time>2014-11-25T09:08:59.5632635+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -80,10 +80,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>PSM</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContentContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\obj\PSM\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Thomas\Documents\ProjetGit\Runner\RunnerContent\RunnerContent\bin\PSM\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContentContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Thomas\Documents\ProjetGit\Fight-Fantasy\RunnerContent\RunnerContent\bin\PSM\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

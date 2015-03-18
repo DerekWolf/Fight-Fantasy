@@ -35,18 +35,19 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="GameScreen.cs" />
     <Compile Include="Interface\InterfaceManager.cs" />
-    <Compile Include="Interface\MenuInterface.cs" />
     <Compile Include="Model\Weapond\ShootsPattern.cs" />
     <Compile Include="Model\Weapond\Stick.cs" />
     <Compile Include="Model\Enemy.cs" />
-    <Compile Include="Interface\Game1.cs" />
+    <Compile Include="Interface\GameInterface.cs" />
     <Compile Include="Model\Hero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Model\Weapond\Sword.cs" />
     <Compile Include="Model\Weapond\SwordShock.cs" />
     <Compile Include="Model\Weapond\Weapon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScreenManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoGame.Framework">
