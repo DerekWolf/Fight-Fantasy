@@ -1,2 +1,2 @@
 # Fight-Fantasy
-It'd a game
+It's a game
